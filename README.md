@@ -1,7 +1,5 @@
-# Assignment 1
+# Assignment 2
 
-[Learn about](https://www.geeksforgeeks.org/python-arithmetic-operators/) more arithmetic operators
+Q. Take input from the user for 2 numbers and the operation we wish to perform and make a calculator. Add extra operations for additional points
 
-Q.1 Given this data, predict if the fruit is chosen at random and it is known that it is long, sweet, and yellow, what fruit it likely is, and what is its probability? Show this calculation in Python.
-
-![Table](https://www.machinelearningplus.com/wp-content/uploads/2018/11/05_Naive_bayes_example_new-865x260.png)
+(Hint: Check control statements)
